@@ -1,1 +1,1 @@
-this tells us mor einfor about each section
+Also made some changes
